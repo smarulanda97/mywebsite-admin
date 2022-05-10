@@ -1,7 +1,15 @@
 <?php
 
+/**
+ * @file
+ * Hooks of module my_website_core.
+ */
+
 use Drupal\Core\Routing\RouteMatchInterface;
 
+/**
+ * Implements hook_help().
+ */
 function my_website_core_help($route_name, RouteMatchInterface $route_match) {
 
 }
