@@ -1,0 +1,21 @@
+uuid: 93d353b4-b171-4528-8d6d-3effb6b35336
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.paragraph.field_title
+    - paragraphs.paragraphs_type.portfolio_banner
+  module:
+    - text
+id: paragraph.portfolio_banner.field_title
+field_name: field_title
+entity_type: paragraph
+bundle: portfolio_banner
+label: Title
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text

@@ -1,0 +1,10 @@
+uuid: 6ca140aa-9382-4117-a135-d83411c5257a
+langcode: en
+status: true
+dependencies: {  }
+id: social_link
+label: 'Social: Link'
+icon_uuid: null
+icon_default: null
+description: 'A paragraph for social links. It is composed of an image and a link.'
+behavior_plugins: {  }

@@ -1,0 +1,10 @@
+uuid: 15fcde78-3888-4da8-bf5b-7577a973b7cd
+langcode: en
+status: true
+dependencies: {  }
+id: skill_link
+label: 'Skill: Link'
+icon_uuid: null
+icon_default: null
+description: 'A paragraph for skill links. It is composed of an image and a link.'
+behavior_plugins: {  }
