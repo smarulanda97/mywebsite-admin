@@ -1,0 +1,10 @@
+uuid: 67bf5660-f547-4dbe-8461-869dc2f1d887
+langcode: en
+status: true
+dependencies: {  }
+id: portfolio_banner
+label: 'Portfolio: Banner'
+icon_uuid: null
+icon_default: null
+description: 'A paragraph for a portfolio page. It is composed of a title, subtitle, description, and image.'
+behavior_plugins: {  }

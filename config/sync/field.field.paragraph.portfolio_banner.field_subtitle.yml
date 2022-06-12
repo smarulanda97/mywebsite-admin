@@ -1,0 +1,19 @@
+uuid: 399a75e9-d4ee-4147-bdec-72ed8dd1b3c3
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.paragraph.field_subtitle
+    - paragraphs.paragraphs_type.portfolio_banner
+id: paragraph.portfolio_banner.field_subtitle
+field_name: field_subtitle
+entity_type: paragraph
+bundle: portfolio_banner
+label: Subtitle
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string
