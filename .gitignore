@@ -25,3 +25,5 @@
 /.env
 /.editorconfig
 /.gitattributes
+
+*.mysql.gz
