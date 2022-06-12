@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  avoid_reduncy:
+  avoid_redundancy:
     runs-on: ubuntu-18.04
     steps:
       - name: Cancel previous redundant builds
