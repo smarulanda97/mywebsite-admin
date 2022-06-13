@@ -1,0 +1,31 @@
+uuid: 33ac6e59-4c6a-4ce2-bd80-163be724139a
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.paragraph.portfolio_projects.field_subtitle
+    - field.field.paragraph.portfolio_projects.field_title
+    - paragraphs.paragraphs_type.portfolio_projects
+  module:
+    - text
+id: paragraph.portfolio_projects.default
+targetEntityType: paragraph
+bundle: portfolio_projects
+mode: default
+content:
+  field_subtitle:
+    type: string
+    label: above
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: 1
+    region: content
+  field_title:
+    type: text_default
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 0
+    region: content
+hidden: {  }
