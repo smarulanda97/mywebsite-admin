@@ -1,0 +1,14 @@
+uuid: 20ec16d9-2c4e-48de-a3b5-3f6f836c2ed4
+langcode: en
+status: true
+dependencies: {  }
+id: frontent_app
+label: 'Frontent app'
+weight: 0
+patterns: '*'
+allowed_headers: '*'
+allowed_methods: '*'
+allowed_origins: '*'
+exposed_headers: ''
+max_age: ''
+supports_credentials: 'true'
